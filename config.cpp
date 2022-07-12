@@ -463,6 +463,7 @@ class CfgRagDollSkeletons
 		// the hitbox of capsule joints (arms, legs) unfortunately cannot be edited
 		// lower mass values result in greater hit reactions from projectiles, but ragdolls will fall slower
 		// higher values result in a heavier ragdoll that doesn't respond as well to projectile hits, but will fall quicker
+		// keep in mind that adjusting the mass will arbitrarily manipulate the ragdolls center of gravity!
 		class Bones
 		{
 			class Pelvis: BaseRagdollBone
