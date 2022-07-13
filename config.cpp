@@ -1,7 +1,7 @@
 // RPP FINAL RELEASE DOCUMENTATION - this mod is now open source.
-// I'll try and add as many definitions as I can, a good amount of functions are still unknown
+// i'll try and add as many definitions as I can, a good amount of functions are still unknown
 // if you're unsure of what a parameter does, i'd recommend you make a backup of your cpp first, then set the value of the parameter to something absurdly high, to exaggerate the effect of the parameter. Boot up the game then note the results
-// Don't do too many parameters at once, or you'll lose track of the effects the parameter has on the ragdoll. i'd recommend doing them one at a time, as painful as that is.
+// don't do too many parameters at once, or you'll lose track of the effects the parameter has on the ragdoll. i'd recommend doing them one at a time, as painful as that is.
 // also HIGHLY recommended you have A3 installed on an SSD to cut down on loading times, these values cannot be changed while the game is running, so you'll have to exit the game to make any changes
 // also recommended to run the game with only this mod loaded when editing, to reduce the time wasted loading into the game every time you want to make a change
 
